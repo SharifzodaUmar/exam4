@@ -1,0 +1,171 @@
+{
+  "Header": {
+    "home": "Home",
+    "category": "Categories",
+    "program": "Programs",
+    "dpo": "DPO Portal",
+    "placeholder1": "What do you want to learn?",
+     "hashtag": "#MyRSUH"
+  },
+  
+  "Footer": {
+    "workHours": {
+      "title": "Working Hours",
+      "monThu": "Mon–Thu 9:00–18:00",
+      "fri": "Fri 9:00–16:45"
+    },
+    "phone": {
+      "title": "Phone",
+      "number": "+7 (495) 255-67-67",
+      "ext": "ext. 1282, 1851"
+    },
+    "additional": {
+            "title": "Additional",
+      "privacyPolicy": "Privacy Policy",
+      "mainSite": "Main RGSU Website"
+    },
+    "university": {
+      "fullName": "Russian State Social University (RSSU)",
+      "license": "License No. L035-00115-77/00119907",
+      "inn": "TIN 7718084994",
+      "ogrn": "OGRN: 1027700134879"
+    }
+  },
+  
+  "Home": {
+    "section1": {
+      "text1": "Engineering and Design Activity",
+      "text2": "Until the end of application submission",
+      "day": "Days",
+      "hour": "Hours",
+      "minut": "Minutes",
+      "seconds": "Seconds",
+      "button": "Enroll in the course"
+    },
+     "section2": {
+    "text1": "Higher Education",
+    "text2": "Additional",
+    "text3": "Corporate",
+    "text4": "Get",
+    "text5": "Higher Professional Education",
+    "text": "choose a program",
+    "t1": "Business",
+    "t2": "Psychology",
+    "t3": "Creativity and Innovation",
+    "t4": "Health and Beauty",
+    "t5": "Preparation for USE",
+    "t6": "Management",
+    "t7": "History",
+    "t8": "China",
+    "t9": "Information Security",
+    "t10": "Languages and Translation",
+    "t11": "Soft Skills",
+    "t12": "Social Work"
+  },
+   "section3": {
+    "text1": "About Us",
+    "text2": "Expert Teachers",
+    "text3": "From Social Universities",
+    "text4": "Educational Programs",
+    "text5": "Students Completed Training",
+    "text6": "Online Learning"
+  },
+   "section4": {
+    "text": "Issued Documents",
+     "text1": "Professional Development",
+    "text2": "Professional development is the renewal and updating of previously acquired theoretical and practical knowledge. An employee remains within their profession and qualification but undergoes training required to meet employer or professional standard requirements.",
+    "text3": "After courses lasting at least 16 hours, the participant receives a certificate of professional development. This means they gain new professional competencies and a certificate confirming it.",
+    "text4": "I want the same",
+    "text5": "Open sample"
+  },
+    "section5": {
+    "text": "Why RGSU?",
+    "text1": "State-recognized diplomas and certificates",
+    "text2": "Grant the right to engage in professional activities",
+    "text3": "A century-long history of the university",
+    "text4": "We constantly grow and pass on our experience and knowledge to our students"
+  },
+   "section6": {
+    "text1": "Corporate Training",
+    "text2": "Learn more",
+    "text3": "Professional development will enhance the skills of both beginners and seasoned professionals",
+    "text4": "We will help you choose a training program",
+       "text5":"Category:",
+       "text6":"Information Security"
+  }
+  },
+   "Category":{
+    "section1": {
+    "text1": "Category",
+    "text2": "Business Analytics",
+    "text3": "Business",
+    "text4": "Psychology",
+    "text5": "Creativity and Innovation",
+    "text6": "Health and Beauty",
+    "text7": "Preparation for Unified State Exam (EGE)",
+    "text8": "Management",
+    "text9": "History",
+    "text10": "China",
+    "text11": "Politics",
+    "text12": "Information Security",
+    "text13": "Languages and Translation",
+    "text14": "Soft Skills",
+    "text15": "Social Work"
+  },
+  "section2": {   
+  "text1": "We will help answer your questions",
+  "text2": "Ask a question"
+}
+},
+"Info": {
+  "section1": {
+    "text1": "Announcement",
+    "text2": "It is pleasant, citizens, to observe how replicated from foreign sources, modern research, initiated exclusively synthetically",
+    "text3": "select a program"
+  },
+  "section2": {
+  "text1": "Practitioner of Political Administration (PPA)",
+  "text2": "Category:",
+  "text3": "Information Security",
+  "text4": "Duration:",
+  "text5": "November 21 - December 15",
+  "text6": "New discounted courses"
+}
+},
+"Program": {
+"left": {
+  "text1": "Study of smell. Basics of clinical olfactology",
+  "text2": "Enroll in the course",
+  "text3": "Consultation",
+  "text4": "Time left to submit applications:",
+  "text5": "Days",
+  "text6": "Hours",
+  "text7": "Sec"
+},
+"right": {
+  "text1": "Description",
+  "text2": "There is a controversial point of view stating roughly the following: shareholders of the largest companies are only a method of political participation and are associatively distributed across industries. Cartel conspiracies do not allow situations where the basic user behavior scenarios call us to new achievements, which, in turn, should equally be provided to themselves.",
+  "text3": "About the program",
+  "text4": "Cost:",
+  "text5": "Volume",
+  "text6": "36 academic hours",
+  "text7": "Category",
+  "text8": "Information Security",
+  "text9": "When:",
+  "text10": "November 21 - December 15",
+  "text11": "Format:",
+  "text12": "On-site/Remote",
+  "textx13": "Type:",
+  "text14": "Professional retraining",
+  "text15": "For whom",
+  "text16": "For those who need",
+  "text17": "There is a controversial point of view stating roughly the following: shareholders of the largest companies are only a method of political participation and are associatively distributed.",
+  "text18": "Our instructors",
+  "text19": "Anna Sergeeva",
+  "text20": "Head of the studio usdfg Data Analyst"
+}
+
+}
+
+}
+
